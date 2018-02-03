@@ -17,15 +17,14 @@ Pod::Spec.new do |s|
 
   s.name         = "FWTest"
   s.version      = "0.0.1"
-  s.summary      = "A short description of FWTest."
+  s.summary      = "the target of this project is to make  operatoring containers of iOS such as 'NSArray'、'NSDictionary'、'NSSet'  More Secure."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = <<-DESC
-                   DESC
+  s.description  = "the target of this project is to make  operatoring containers of iOS such as 'NSArray'、'NSDictionary'、'NSSet'  More Secure"
 
   s.homepage     = "https://github.com/Ajian2017/FWTest"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
@@ -38,7 +37,7 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = "MIT (example)"
+  s.license      = { :type => 'MIT', :file => 'LICENSE' }
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
