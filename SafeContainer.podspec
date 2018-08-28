@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "SafeContainer"
-  s.version      = "0.1.0"
+  s.version      = "0.1.1"
   s.summary      = "to make  operatoring containers of iOS such as 'NSArray'、'NSDictionary'、'NSSet'  More Secure."
   s.description  = "the target of this project is to make  operatoring containers of iOS such as 'NSArray'、'NSDictionary'、'NSSet'  More Secure"
 
